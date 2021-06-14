@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+  font-family: sans-serif;
+}
+
+.container-01{
+    margin: 50px 50px;
+    padding: 100px 0;
+    background: #23424a;
+    font-size: 1rem;
+    font: roboto black;
+    color: white;
+    position: absolute;
+    /* max-width: 1200px; */
+    
+}
+
+.container-02{
+    width: 50%;
+    color: white;
+    margin: 50px 70px;
+    padding: 0 0px;
+    font-size: 1rem;
+}
+
+p{
+    margin: 30px 0px;
+}
+
+
+button{
+    background-color: #38cfd9;
+    position: absolute;
+    font-size: 21px;
+    font: roboto bold;
+    height: 60px;
+    width: 200px;
+    border-radius: 31.5px;
+    margin: 0 50px 0 50px;
+}
